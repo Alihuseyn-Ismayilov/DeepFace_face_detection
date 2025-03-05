@@ -1,6 +1,5 @@
-numpy
-pandas
-tensorflow
-deepface
-matplotlib
 opencv-python
+tkinter
+Pillow
+numpy
+deepface
